@@ -18,7 +18,7 @@
             <div class="content2">
                 <h2>Atualmente Cursando ADS - Analise e Desenvolvimento de Sistemas</h2>
                 <h3>Formação academica</h3>
-                <a href="https://www.fiap.com.br/?gclid=CjwKCAjwqJSaBhBUEiwAg5W9p7L2nLUJPkbMYMbyzAPwVI1dQiQSpOZcpssIcYmYIQuXR2nK48dDNBoCSF8QAvD_BwE" target="_blank"><img  src="https://i.promobit.com.br/268/687551020216058046662025179492.png" alt="" height="100" width="120"></a>
+                <a href="https://www.fiap.com.br/?gclid=CjwKCAjwqJSaBhBUEiwAg5W9p7L2nLUJPkbMYMbyzAPwVI1dQiQSpOZcpssIcYmYIQuXR2nK48dDNBoCSF8QAvD_BwE" target="_blank"><img  src="https://i.promobit.com.br/268/687551020216058046662025179492.png" alt="" height="110" width="120"></a>
             </div>
         </div>
         <div class="base_content3">
