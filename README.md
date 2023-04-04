@@ -21,16 +21,15 @@
         </div>
         <div class="base_content3">
             <div class="content3">
-                <h3>Conhecimentos na área de programação</h3>
-                <ul style ="list-style-type:none">
-                    <img  src="https://cdn-icons-png.flaticon.com/512/3291/3291670.png" alt="" height="50" width="50">
-                    <img  src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="" height="50" width="50">
-                    <img  src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="" height="50" width="50">
-                    <img  src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="" height="50" width="50">
-                    <img  src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" alt="" height="50" width="50">
-                    <img  src="https://cdn-icons-png.flaticon.com/512/3742/3742965.png" alt="" height="50" width="50">
-                    <img  src="https://cdn-icons-png.flaticon.com/512/969/969958.png" alt="" height="50" width="50">
-                </ul>
+               <h2 align="center">Status das linguagens que uso em meu perfil:</h2>
+                    <p align="center">
+                      <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+                      <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" alt="Python">
+                      <img src="https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white" alt="Java">
+                      <img src="https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+                      <img src="https://img.shields.io/badge/-CSS-blueviolet?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+                      <img src="https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=white" alt="PHP">
+                     </p>        
             </div>
         </div>
         <div class="base_framework">
@@ -48,16 +47,6 @@
     </header>  
 </body>
 </html>
-
-| Linguagem | Repositórios | Contribuidores | Estrelas | Forks |
-|----------|-------------|----------------|----------|-------|
-| JavaScript | 17,528,674 | 2,796,942 | 50,102,309 | 8,808,201 |
-| Java | 7,752,776 | 2,534,701 | 35,332,256 | 7,708,303 |
-| C++ | 4,267,818 | 1,062,773 | 21,838,684 | 3,959,134 |
-| Python | 3,841,538 | 1,910,605 | 20,413,101 | 5,062,682 |
-| C# | 2,956,951 | 1,038,908 | 15,325,648 | 3,527,395 |
-| PHP | 2,511,009 | 630,377 | 9,020,879 | 2,384,368 |
-| Ruby | 1,524,778 | 537,029 | 6,271,221 | 1,619,973 |
 
 
 
