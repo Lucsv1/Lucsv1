@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente cursando Analise e Desenvolvimento de Sistemas<br>Aluno da FIAP<br>Conhecimentos em FRONT-END  e BACK-END
+Atualmente cursando Analise e Desenvolvimento de Sistemas<br>Aluno da FIAP<br> FRONT-END  e BACK-END
 
 
 ## 🌐 Socials:
