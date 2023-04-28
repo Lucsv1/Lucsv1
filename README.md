@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 About Me:
 Atualmente cursando Analise e Desenvolvimento de Sistemas<br>Aluno da FIAP<br> FRONT-END  e BACK-END
 
@@ -12,5 +13,5 @@ Atualmente cursando Analise e Desenvolvimento de Sistemas<br>Aluno da FIAP<br> F
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lucsv1&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucsv1&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
