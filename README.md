@@ -2,8 +2,8 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <img width=100% title="Hornet-Developer" alt="Hornet-Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=LUCAS_VINICIUS🐱‍👤&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-💫 About Me:
-Atualmente cursando Analise e Desenvolvimento de Sistemas<br>Aluno da FIAP<br> FRONT-END  e BACK-END
+
+<h2>Analise e Desenvolvimento de Sistemas<br>Aluno da FIAP<br> FRONT-END  e BACK-END</h2>
 
 
 ## 🌐 Socials:
