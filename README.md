@@ -10,7 +10,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Lucsv1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Lucsv1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Aru4ansan) 
 
 
-![wired-lineal-50-it-developer](https://github.com/Lucsv1/Lucsv1/assets/73286427/973f178d-dc49-468c-9b11-a99fa4fee5a3)
+
+![wired-lineal-680-it-developer (1)](https://github.com/Lucsv1/Lucsv1/assets/73286427/f5d284f0-8884-4656-b841-4efa715685a0)
 
 
 <img src="[https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif](https://i.pinimg.com/originals/21/e3/15/21e3154a6144c4a989ac6a77c48a82c0.gif)" width="100%"> Tech Stack:
