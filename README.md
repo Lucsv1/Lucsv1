@@ -2,7 +2,7 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
  <h1>Lucas Vinicius</h1>
- 💫 About Me:
+💫 About Me:
 Atualmente cursando Analise e Desenvolvimento de Sistemas<br>Aluno da FIAP<br> FRONT-END  e BACK-END
 
 
