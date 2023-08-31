@@ -15,7 +15,7 @@
  <div align="center">  
   ![](https://github-readme-stats.vercel.app/api?username=Lucsv1&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=Lucsv1&theme=radical&hide_border=false)
-</div>
+ </div>
 </div>
 
 <img width=100% title="Hornet-Developer" alt="Hornet-Developer"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
