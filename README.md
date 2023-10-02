@@ -4,6 +4,10 @@
 <h2 textAlign="center"> -- Lucas Vinicius --</h2>
 <h4> * Analysis and systems development ✨</h4>
 <h4> * FRONT-END && BACK-END</h4>
+<h4> * FIAP STUDENT</h4>
+
+
+ 
 <div/>
 <div align="center">
  
