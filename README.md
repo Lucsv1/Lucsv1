@@ -1,5 +1,5 @@
 <div>
-<!-- <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/> -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
 <h2 textAlign="center"> -- Lucas Vinicius --</h2>
 <h4> * Analysis and systems development ✨</h4>
 <h4> * FRONT-END && BACK-END</h4>
@@ -9,7 +9,6 @@
  
 <div/>
 <div align="center">
- 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucsv1&bg_color=0d1117&color=00BFFF&line=00BFFF&point=00BFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🌐 Socials:
