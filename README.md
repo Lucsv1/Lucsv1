@@ -1,14 +1,12 @@
 <div>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
-<h2 textAlign="center"> -- Lucas Vinicius --</h2>
-<h4> * Analysis and systems development ✨</h4>
-<h4> * FRONT-END && BACK-END</h4>
-<h4> * FIAP STUDENT</h4>
+ <div align="center">
+  <h1 textAlign="center"> -- Lucas Vinicius --</h1>
+ </div>
+<p> * Analysis and systems development ✨ *<p>
+<p> * FRONT-END && BACK-END *<p>
+<p> * FIAP STUDENT *<p>
 
-
- 
-<div/>
-<div align="center">
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucsv1&bg_color=0d1117&color=00BFFF&line=00BFFF&point=00BFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🌐 Socials:
@@ -20,7 +18,6 @@
  # 📊 GitHub Stats:
  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lucsv1&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Vinicius stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucsv1&layout=compact&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=0d1117"/>
- </div>
   
 </div>
 
