@@ -3,9 +3,7 @@
  <div align="center">
   <h1 textAlign="center"> -- Lucas Vinicius --</h1>
  </div>
-<p> * Analysis and systems development ✨ *<p>
 <p> * FRONT-END && BACK-END *<p>
-<p> * FIAP STUDENT *<p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucsv1&bg_color=0d1117&color=00BFFF&line=00BFFF&point=00BFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
